@@ -1,0 +1,5 @@
+2023/01/20-10:32:41.133 304c Reusing MANIFEST E:/UnrealProject/Learning/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/20-10:32:41.133 304c Recovering log #7
+2023/01/20-10:32:41.133 304c Reusing old log E:/UnrealProject/Learning/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000007.log 
+2023/01/20-10:32:41.251 33fc Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/01/20-10:32:41.251 33fc Manual compaction at level-1 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
